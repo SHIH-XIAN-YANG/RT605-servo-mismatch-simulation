@@ -1,0 +1,6 @@
+﻿-I"C:\Users\Samuel\OneDrive - National Chiao Tung University\實驗室研究\Robotic\Mismatch_simulation"
+-I"C:\Users\Samuel\OneDrive - National Chiao Tung University\實驗室研究\Robotic\Mismatch_simulation\HIWIN_arm_grt_rtw"
+-I"C:\Program Files\MATLAB\R2022b\extern\include"
+-I"C:\Program Files\MATLAB\R2022b\simulink\include"
+-I"C:\Program Files\MATLAB\R2022b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2022b\rtw\c\src\ext_mode\common"
